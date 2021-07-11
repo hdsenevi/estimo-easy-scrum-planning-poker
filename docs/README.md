@@ -46,7 +46,7 @@ Here are all the page from the project:
   - [Login](https://demos.creative-tim.com/notus-nextjs/auth/login?ref=nnjs-github-readme)
   - [Register](https://demos.creative-tim.com/notus-nextjs/auth/register?ref=nnjs-github-readme)
 - Presentation Samples
-  - [Landing](https://demos.creative-tim.com/notus-nextjs/landing?ref=nnjs-github-readme)
+  - [Old_landing](https://demos.creative-tim.com/notus-nextjs/landing?ref=nnjs-github-readme)
   - [Profile](https://demos.creative-tim.com/notus-nextjs/profile?ref=nnjs-github-readme)
 
 
@@ -178,7 +178,7 @@ notus-nextjs
 │   │   ├── login.js
 │   │   └── register.js
 │   ├── index.js
-│   ├── landing.js
+│   ├── old_landing.js
 │   └── profile.js
 └── tailwind.config.js
 ```
